@@ -48,7 +48,7 @@ void loop() {
 
    lcd.clear();
   lcd.setCursor(1,0);
-  lcd.print("Guillermo Hdz");
+  lcd.print("Miguel Montesinos");
   lcd. setCursor(2,1);
   lcd.print("Ing Mecanica");
   delay(2000);

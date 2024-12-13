@@ -74,7 +74,7 @@ void loop() {
 
 ## Conexión
 
-![image](https://github.com/user-attachments/assets/f0809872-cd50-4250-9112-1707a00c5bd4)
+![image](https://github.com/MiguelMontesinos/Practica-3-ESP32-con-LCD-y-DHT22/blob/main/Captura%20de%20pantalla%202024-12-12%20184824.png?raw=true)
 
 ## Instrucciones de operación 
 

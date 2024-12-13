@@ -88,7 +88,7 @@ Cuando funcione y Corra los valores serán mostrados en la pantalla LCD, cada 2 
 
 ![image](https://github.com/MiguelMontesinos/Practica-3-ESP32-con-LCD-y-DHT22/blob/main/Captura%20de%20pantalla%202024-12-12%20183658.png?raw=true)
 
-![image](https://github.com/user-attachments/assets/1c274008-d8ae-4753-bbd9-da1f79287b72)
+![image](https://github.com/MiguelMontesinos/Practica-3-ESP32-con-LCD-y-DHT22/blob/main/Captura%20de%20pantalla%202024-12-12%20183729.png?raw=true)
 
 ## Desarrollado por
 

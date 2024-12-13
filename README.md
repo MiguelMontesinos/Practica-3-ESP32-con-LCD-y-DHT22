@@ -80,7 +80,7 @@ void loop() {
 
 1. Iniciar Simulador
 2. Visualizar los datos en la pantalla LCD
-3. Subir y Bajar la temperatura dando doble click al sensor DHT22
+3. Subir y Bajar la temperatura dando doble click al sensor DHT22 
 
 ## Resultados
 
